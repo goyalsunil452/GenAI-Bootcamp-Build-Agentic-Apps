@@ -1,0 +1,15 @@
+python-dotenv
+langChain[groq]
+langgraph
+langchain[anthropic]
+langchain_mcp_adapters
+streamlit
+pandas
+numpy
+google-genai
+langchain-chroma
+langchain_community
+bs4
+langchain_google_genai
+langgraph_supervisor
+langchain_ollama
