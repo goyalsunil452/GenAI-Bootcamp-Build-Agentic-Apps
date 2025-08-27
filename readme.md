@@ -1,4 +1,4 @@
-# 🚀 **Agentic Application Development**
+# 🚀 **Agentic Application Development - Learning Path**
 
 Welcome to the comprehensive learning journey of building agentic applications! This repository contains everything we covered on Day 1, organized into logical, progressive chapters.
 
