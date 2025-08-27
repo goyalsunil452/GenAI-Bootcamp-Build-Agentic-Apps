@@ -1,8 +1,8 @@
-# 🚀 **Agentic Application Development - Day 1 Learning Path**
+# 🚀 **Agentic Application Development**
 
 Welcome to the comprehensive learning journey of building agentic applications! This repository contains everything we covered on Day 1, organized into logical, progressive chapters.
 
-## 📖 **Learning Path Overview**
+## 📖 **Day 1 Learning Path Overview**
 
 ### **🎯 What You'll Learn**
 - **LangChain & LangGraph Fundamentals** - Core concepts and setup
@@ -27,6 +27,25 @@ Welcome to the comprehensive learning journey of building agentic applications! 
 | 8 | **GitHub Agent** | AI + GitHub integration | GitHub API, repository operations |
 | 9 | **Streamlit Basics** | Web interface creation | Streamlit, UI components |
 | 10 | **MCP Server** | Custom MCP implementations | Custom tools, server creation |
+
+## 📖 **Day 2 – Learning Path Overview**
+
+### **🎯 What You'll Learn (Day 2)**
+- **Multi‑Model Models (Gemini)**: Text‑to‑image and image understanding
+- **Embeddings + Vector DBs**: Create embeddings and store/search with Chroma
+- **RAG with Smart Chunking**: Scrape → split → deduplicate → retrieve → answer with Groq
+- **Multi‑Agent Architectures**: Simple supervisor flows and hand‑offs
+- **Run Models Locally (Ollama)**: Pull/run models and integrate in apps
+
+### **📁 Chapter Structure (Day 2)**
+
+| Chapter | Topic | Description | Key Concepts |
+|---------|-------|-------------|--------------|
+| 1 | **Multi‑Model Models (Gemini)** | Image generation and captioning demos | `gemini-2.0-flash`, multimodal prompts |
+| 2 | **RAG + Embeddings** | Web scraping, smart chunking, embeddings, vector store | Smart chunking, `GoogleGenerativeAIEmbeddings`, `Chroma`, similarity search |
+| 3 | **Multi‑Agent Architectures** | Supervisor example for task orchestration | Agent roles, hand‑offs, scoring |
+| 4 | **Running Models Locally (Ollama)** | Local LLM setup and usage | `ollama pull/run`, local inference, integration |
+
 
 ## 🚀 **Getting Started**
 
